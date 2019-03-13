@@ -7,7 +7,7 @@ import com.lkh.myapp.aboard.dto.A_bbsDTO;
 
 public interface A_bbsDAO {
 
-	// 글쓰기
+	// 글쓰기!
 	int write(A_bbsDTO abbsDTO) throws Exception;
 
 	// 글목록
