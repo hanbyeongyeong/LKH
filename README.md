@@ -29,5 +29,6 @@ TeamProject:LKH
 
  사용기술
 ------------------
+![lkhtec](https://user-images.githubusercontent.com/47437218/54329931-32ce7100-4657-11e9-8e68-5e9d8199411c.png)
 
 
